@@ -9,7 +9,7 @@ This is Jahid Hasan. I’m a full-stack developer. I’ve 3 years of experience 
 ### 🛠 Tech Stacks
 These are the technologies or programmes I usually work.
 
- <img align="right" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-dev&theme=react&layout=compact" />
+ <img align="right" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidcmt4&theme=react&layout=compact" />
  
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -35,8 +35,8 @@ These are the technologies or programmes I usually work.
 ### 📈 Statistics
 Check out my work statistics below.
 
- <img  height= "130" align="left" alt="jahid-dev" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-dev&theme=dark&hide_border=true" />
- <img height= "130" src="https://github-readme-stats.vercel.app/api?username=jahid-dev&theme=dark&hide_border=true&show_icons=true&include_all_commits=true" />
+ <img  height= "130" align="left" alt="jahidcmt4" src="https://github-readme-streak-stats.herokuapp.com/?user=jahidcmt4&theme=dark&hide_border=true" />
+ <img height= "130" src="https://github-readme-stats.vercel.app/api?username=jahidcmt4&theme=dark&hide_border=true&show_icons=true&include_all_commits=true" />
  
  ### Where to find me
 
