@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-This is Jahid Hasan. I’m a full-stack developer. I’ve 3 years of experience in web development. I completed more than 100+ websites and web applications for different clients. I've love to work with PHP, Laravel, WordPress, Codeigniter, JavaScript, React JS, HTML, CSS, Bootstrap, jQuery, and MySQL. Here is my WordPress - [Profile](https://profiles.wordpress.org/jahidcse/). Currently, **I'm open to work and opportunities.**
+This is Jahid Hasan. I’m a full-stack developer. I’ve 3 years of experience in web development. I completed more than 100+ websites and web applications for different clients. I've love to work with WordPress Plugin Development, WordPress Theme Development, PHP, Laravel, JavaScript, Vue JS, HTML, CSS, Bootstrap, jQuery, and MySQL. Here is my WordPress - [Profile](https://profiles.wordpress.org/jahidcse/). Currently, **I'm open to work and opportunities.**
 
 - I like to explore new technologies and develop software solutions.
 - Currently, I'm working on WordPress Themes and Plugin Development.
 
-
-### 🛠 Tech Stacks
-These are the technologies or programmes I usually work.
 
  <img align="right" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidcmt4&theme=react&layout=compact" />
  
@@ -19,7 +16,7 @@ These are the technologies or programmes I usually work.
 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
