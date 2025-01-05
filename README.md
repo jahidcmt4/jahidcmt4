@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Jahid Hasan. I’m a full-stack developer. I’ve 3 years of experience in web development. I completed more than 100+ websites and web applications for different clients. I've love to work with WordPress Plugin Development, WordPress Theme Development, PHP, Laravel, JavaScript, Vue JS, HTML, CSS, Bootstrap, jQuery, and MySQL. Here is my WordPress - [Profile](https://profiles.wordpress.org/jahidcse/). Currently, **I'm open to work and opportunities.**
+This is Jahid Hasan. I’m a full-stack developer. I’ve 3 years of experience in web development. I completed more than 40+ websites and web applications for different clients. I've love to work with WordPress Plugin Development, WordPress Theme Development, PHP, Laravel, JavaScript, Vue JS, HTML, CSS, Bootstrap, jQuery, and MySQL. Here is my WordPress - [Profile](https://profiles.wordpress.org/jahidcse/). Currently, **I'm open to work and opportunities.**
 
 
 - I like to explore new technologies and develop software solutions.
